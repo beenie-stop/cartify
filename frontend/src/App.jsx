@@ -18,6 +18,7 @@ import ProductDetails from './pages/productDetails.jsx'
 function App() {
   return (
     <>
+   
        <Routes >     
            <Route path='/Login' element={<Login />} />   
            <Route path='/Register' element={<Register/>}/>  
